@@ -1,0 +1,9 @@
+LW8 - BOE777 - Friday - 00:00 - 12:56 - British Airways
+BC1 - A380 - Sunday - 14:00 - 19:00 - Beijing Capital Airlines
+CW0 - EX20 - Wednesday - 08:20 - 18:00 - Fly Emirates
+AL6 - A350 - Friday - 11:00 - 17:45 - EVA Air
+CB2 - BOE767 - Monday - 18:00 - 23:00 - Tigerair
+WL5 - BOE787D - Saturday - 06:30 - 13:10 - Alaska Airlines
+CA3 - BOE777 - Tuesday - 15:35 - 21:00 - Singapore Airlines
+LB7 - EX20 - Sunday - 16:00 - 23:00 - Star Alliance
+BA4 - A380 - Monday - 11:00 - 17:20 - Beijing Capital Airways
